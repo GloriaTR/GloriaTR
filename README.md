@@ -16,9 +16,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white&labelColor=764ABC" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white" alt="React Query" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS" />
+  <img src="https://shields.io/badge/chakra--ui-black?logo=chakraui&style=for-the-badge%22" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=Storybook&logoColor=white" alt="Storybook" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white&labelColor=CC6699" alt="SASS" />
+  <img src="https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&labelColor=000000" alt="Express" />
@@ -28,6 +32,7 @@
   <img src="https://img.shields.io/badge/Supertest-000000?style=flat&logo=insomnia&logoColor=white&labelColor=000000" alt="Supertest" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white&labelColor=17202C" alt="Cypress" />
   <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white&labelColor=E33332" alt="Testing Library" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/SonarCloud-4E9BCD?style=flat&logo=sonarcloud&logoColor=white&labelColor=4E9BCD" alt="SonarCloud" />
   <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white&labelColor=FFA611" alt="Firebase-SDK" />
